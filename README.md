@@ -30,20 +30,16 @@ This project focuses on predicting the prices of Ford brand cars based on variou
 
 ## Before data pre-processing
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200" height="200" alt="GitHub Octocat">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200" height="200" alt="GitHub Octocat">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200" height="200" alt="GitHub Octocat">
+<img src="https://github.com/mr-ozdemir/Ford-Car-Price-Prediction-with-Tensorflow/blob/main/Ford_price_pred/pic/1.png" width="500" height="500" ><img src="https://github.com/mr-ozdemir/Ford-Car-Price-Prediction-with-Tensorflow/blob/main/Ford_price_pred/pic/Model%20quantity.png" width="500" height="500"><img src="https://github.com/mr-ozdemir/Ford-Car-Price-Prediction-with-Tensorflow/blob/main/Ford_price_pred/pic/count-price.png" width="500" height="500">
 
 ## After data pre-processing
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200" height="200" alt="GitHub Octocat">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200" height="200" alt="GitHub Octocat">
+<img src="https://github.com/mr-ozdemir/Ford-Car-Price-Prediction-with-Tensorflow/blob/main/Ford_price_pred/pic/count-price2.png" width="500" height="500" ><img src="https://github.com/mr-ozdemir/Ford-Car-Price-Prediction-with-Tensorflow/blob/main/Ford_price_pred/pic/Model%20quantity2.png" width="500" height="500">
 
 
-## model değerlendirilmesi
+## Model Evaluation
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200" height="200" alt="GitHub Octocat">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200" height="200" alt="GitHub Octocat">
+<img src="https://github.com/mr-ozdemir/Ford-Car-Price-Prediction-with-Tensorflow/blob/main/Ford_price_pred/pic/loss.png" width="500" height="500" ><img src="https://github.com/mr-ozdemir/Ford-Car-Price-Prediction-with-Tensorflow/blob/main/Ford_price_pred/pic/ols_res.PNG" width="500" height="500">
 
 
 ## Contribution
